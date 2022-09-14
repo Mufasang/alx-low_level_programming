@@ -19,6 +19,7 @@ int main(void)
 		_putchar(c[i]);
 	
 	_putchar('\n');
-        return (0);
+
+	return (0);
 }
 
