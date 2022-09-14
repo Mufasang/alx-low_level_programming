@@ -9,6 +9,7 @@
  * Return: Always 0 (Success)
  */
 
+_putchar();
 int main(void)
 {
 	char c[] = "_putchar";
