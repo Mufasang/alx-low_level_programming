@@ -1,5 +1,4 @@
 #include "main.h"
-#include <unistd.h>
 
 /**
  * main - check Description
@@ -9,7 +8,7 @@
  * Return: Always 0 (Success)
  */
 
-void  _putchar();
+_putchar();
 int main(void)
 {
 	char c[] = "_putchar";
