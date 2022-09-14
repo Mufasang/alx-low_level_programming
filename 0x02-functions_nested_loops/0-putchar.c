@@ -10,10 +10,10 @@
 
 int main(void)
 {
-	char c[8] = "_putchar";
+	char c[6] = "teslim";
 	int i;
 
-	for (i = 0; i < 8; i++)
+	for (i = 0; i < 6; i++)
 		_putchar(c[i]);
 	
 	_putchar('\n');
