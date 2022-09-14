@@ -1,12 +1,9 @@
 #include "main.h"
 
 /**
- * print lower case alphabets
- *
- * Return: Always 0 (Success)
- *
- * print_alphabet - Prints
- * the english alphabetes for a -z
+ * print_alphabet - Check description
+ * Description: It prints the alphabet in lowercase followed by a new line
+ * Return: Nothing.
  */
 
 void print_alphabet(void)
