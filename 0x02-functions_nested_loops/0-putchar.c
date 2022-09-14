@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdio.h>
+#include <stdlib>
 
 /**
  * main - check Description
@@ -8,7 +10,7 @@
  * Return: Always 0 (Success)
  */
 
-int _putchar(void)
+int main(void)
 {
 	char c[] = "_putchar";
 	int i;
