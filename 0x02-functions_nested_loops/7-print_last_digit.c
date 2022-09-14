@@ -2,9 +2,8 @@
 
 /**
  * print_last_digit - prints the last digit of a number
- * @r: An integer input
- * Description: This function prints the last digit of a number
- * return: last digit of number r
+ * @r: parameter
+ * Return: last digit
  */
 
 int print_last_digit(int r)
