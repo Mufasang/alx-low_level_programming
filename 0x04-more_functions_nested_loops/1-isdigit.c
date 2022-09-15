@@ -4,7 +4,7 @@
 /**
  * _isdigit - return 1 if parameter is isdigit
  * @c: the character to check
- * Return:  0 (failure)
+ * Return: 0 (failure)
  */
 
 int _isdigit(int c)
