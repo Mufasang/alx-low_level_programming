@@ -5,10 +5,14 @@
  * mul - a function that multiplies two integers.
  * @a: An input integer
  * @b: An input integer
+ * teslim: produc of 2 integers
  * Return: Always 0
  */
 
 int mul(int a, int b)
 {
-	return (a * b)
+	int teslim;
+
+	teslim = a * b;
+	return (teslim);
 }
