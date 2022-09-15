@@ -3,7 +3,7 @@
 
 /**
  * print_diagonal - draws a diagonal line
- * @N: no of time to \
+ * @n: no of time to \ xters to be printed
  */
 
 void print_diagonal(int n)
