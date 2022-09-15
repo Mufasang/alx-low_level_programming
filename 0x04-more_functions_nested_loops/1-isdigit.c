@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * _isdigit - A function that checks for a digit (0 through 9).
- * @c: An input integer
- * Return: 1 if c is a digit or 0 otherwise
+ * _isdigit - return 1 if parameter is isdigit
+ * @c: the character to check
+ * Return:  0 (failure)
  */
 
 int _isdigit(int c)
