@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_numbers - a code that prints numbers 0 - 9, and a new line
+ * print_numbers - a script that prints numbers 0 - 9, and a new line
  *
  * Return: 0
  */
